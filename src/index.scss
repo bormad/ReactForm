@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 40px;
+}
+
+.row {
+    display: flex;
+}
+
+.MuiTextField-root, .MuiButton-root  {
+    margin: 0 15px !important;
+}
